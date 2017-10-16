@@ -9,7 +9,7 @@ h1,h2{
 
 h1 {
 	font-family:"Raleway", sans-serif;
-	color:#0D2C40;
+	/*color:#0D2C40; want header to be white?*/
 	letter-spacing: 1px;
 	font-weight:400;
 	font-size: 45px;
@@ -24,7 +24,8 @@ nav{
 
 a {
 	font-family:"Raleway", sans-serif;
-	color:#F15B31;
+	/*color:#F15B31; want text to be white*/
+	color:white;
 	letter-spacing: 1px;
 	font-weight:600;
 	font-size: 18px;
@@ -38,7 +39,7 @@ a:hover{
 	border-color:white;
 }
 
-#Instructions{
+h2{
 	font-family:"Raleway", sans-serif;
 	color:#0D2C40;
 	letter-spacing: 1px;
